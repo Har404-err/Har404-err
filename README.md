@@ -57,12 +57,6 @@ Menggunakan Bahasa Pemrograman<br><br>
   <a href="https://www.python.org">
    <img src="https://img.shields.io/badge/Python-0?style=for-the-badge&logo=python&logoColor=FFFFFF&logoSize=3&color=3776AB" alt="Python" />
   </a>
-  <a href="https://www.php.net">
-   <img src="https://img.shields.io/badge/PHP-0?style=for-the-badge&logo=php&logoColor=FFFFFF&logoSize=3&color=777BB4" alt="PHP" />
-  </a>
-  <a href="https://www.markdownguide.org">
-   <img src="https://img.shields.io/badge/Markdown-0?style=for-the-badge&logo=markdown&logoColor=F8F9FA&logoSize=3&color=FF5252" alt="Markdown" />
-   </a>
  </p>
 </h3>
 
