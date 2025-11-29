@@ -80,22 +80,6 @@ Menggunakan Bahasa Pemrograman<br><br>
 
 - - -
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Har404-err&layout=donut)](https://github.com/Har404-err)
-
-## 🅒 Code Source & Projects
-[![PythonScripts](https://github-readme-stats.vercel.app/api/pin/?username=Har404-err&repo=PythonScripts&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Har404-err/PythonScripts)
-[![Jarvis](https://github-readme-stats.vercel.app/api/pin/?username=Har404-err&repo=Jarvis&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Har404-err/Jarvis)
-[![JavaScript-Project](https://github-readme-stats.vercel.app/api/pin/?username=Har404-err&repo=JavaScript-Project-&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Har404-err/JavaScript-Project-)
-[![tutorial-modern-javascript](https://github-readme-stats.vercel.app/api/pin/?username=Har404-err&repo=tutorial-modern-javascript&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Har404-err/tutorial-modern-javascript)
-
-<br>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Har404-err&show_icons=true&theme=default&border_color=7F3FBF&icon_color=7F3FBF)](https://github.com/Har404-err)
-
-<br>
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 📫 Kontak & Request
