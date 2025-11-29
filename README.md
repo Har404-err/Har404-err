@@ -12,6 +12,9 @@
 </h3>
 
 <p align="center">
+   <a href="https://www.instagram.com/muh4r_01?igsh=MThnNmtmYjdiajM2ZQ==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="maoudabi" />
+ </a>
  <a href="https://wa.me/6282148570591" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-0?style=plastic&logo=WhatsApp&logoColor=FFFFFF&logoSize=3&color=25d365" alt="WhatsApp" />
  </a>
