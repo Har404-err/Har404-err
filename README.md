@@ -64,7 +64,7 @@ Menggunakan Bahasa Pemrograman<br><br>
 </h3>
 
 <p align="center">
- <img src="https://files.catbox.moe/6z5im9.jpg">
+ <img src="https://tmpfiles.org/dl/12389004/1764382999981.jpg">
 </p>
 
 <br>
