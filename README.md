@@ -64,6 +64,11 @@ Menggunakan Bahasa Pemrograman<br><br>
  <img src="https://tmpfiles.org/dl/12389004/1764382999981.jpg">
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Har404-err&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Har404-err&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Har404-err&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <br>
 
 ## 💡 Tentang Saya
