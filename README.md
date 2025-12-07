@@ -102,7 +102,9 @@ Hubungi saya untuk:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Har404-err&color=7F3FBF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
-[![](https://visitcount.itsvg.in/api?id=Har404-err&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Har404-err&icon=0&color=0)](https://visitcount.itsvg.in).in)
 
 <p align="center">
   💻 Happy Coding! 🚀
