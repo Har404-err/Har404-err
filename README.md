@@ -31,8 +31,7 @@ Di sini, saya membagikan berbagai proyek pemrograman, terutama yang berkaitan de
 
 ## 🔎 Fokus Pengembangan
 Saya fokus pada pengembangan berbagai macam project, termasuk:
-- Bot WhatsApp menggunakan JavaScript
-- Python Scripts untuk berbagai keperluan
+- Bot WhatsApp menggunakan JavaScript/NodeJs 
 - Belajar dan mengeksplorasi JavaScript Modern
 
 ## 🚀 Apa yang saya kerjakan
