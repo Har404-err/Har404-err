@@ -5,7 +5,7 @@
   <!-- Typing Animation -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=Building+Future+Bots;WhatsApp+API+Expert;JavaScript+%26+Python;Transforming+Ideas+to+Code" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=435&lines=Building+Future+Bots;WhatsApp+API+Expert;JavaScript+%26;Transforming+Ideas+to+Code" alt="Typing SVG" />
     </a>
   </p>
 
@@ -35,7 +35,7 @@
 ### 🛠️ Core Technologies (HUD Interface)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,py,html,css,git,linux,mongodb,mysql,vite,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,linux,vite,react&theme=dark" />
   </a>
 </p>
 
