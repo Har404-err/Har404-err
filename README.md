@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Core Technologies (HUD Interface)
+### 🛠️ Core Technologies 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,linux,vite,react&theme=dark" />
