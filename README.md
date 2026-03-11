@@ -36,7 +36,7 @@ drwxr-xr-x 2 user user 4096 MongoDB / MySQL
 ### 🛠️ Core Technologies (HUD Interface)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,tailwindcss,html,css,git,supabase,vite,react,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,tailwindcss,html,css,git,supabase,vite,react,git,github&theme=dark" />
   </a>
 </p>
 
