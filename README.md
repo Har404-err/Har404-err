@@ -88,8 +88,8 @@
 ---
 
 <div align="center">
-  <h2>🏙️ Isometric Contribution (3D City)</h2>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph">
+  <h2>🏙️ Cyber City (GitHub Contributions)</h2>
+  <img src="https://gitcity.natrajx.in/api/svg?username=Har404-err&theme=matrix" width="100%" alt="GitCity - GitHub City Visualization">
 </div>
 
 ---
