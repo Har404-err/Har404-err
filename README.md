@@ -85,14 +85,14 @@
   
   <img src="https://streak-stats.demolab.com?user=Har404-err&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" alt="streak graph" style="max-width: 100%; margin-top: 10px;" />
 </div>
-
 ---
 
 <div align="center">
   <h2>🏙️ Isometric Contribution (3D City)</h2>
-  <img src="https://raw.githubusercontent.com/Har404-err/Har404-err/main/github-metrics.plugin.isocalendar.svg" width="100%" alt="Isometric Calendar">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph">
 </div>
 
+---
 <div align="center">
   <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har404-err&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" style="max-width: 100%;">
