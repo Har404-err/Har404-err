@@ -84,31 +84,13 @@
 ---
 
 <div align="center">
-  <h2>🏆 Profile Trophy</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Har404-err/Har404-err/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Har404-err/Har404-err/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Har404-err/Har404-err/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
-  </picture>
-  
-  <br>
-
-  <img src="https://github-profile-trophy.vercel.app?username=Har404-err&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy graph" style="max-width: 100%; margin-top: 15px;" />
+  <h2>🏙️ Isometric Contribution (3D City)</h2>
+  <img src="https://raw.githubusercontent.com/Har404-err/Har404-err/main/github-metrics.plugin.isocalendar.svg" width="100%" alt="Isometric Calendar">
 </div>
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har404-err&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" style="max-width: 100%;">
-</div>
-
----
-
-<div align="center">
-  <h2>👾 Neural Logic (Tic-Tac-Toe)</h2>
-  <!-- TIC-TAC-TOE-START -->
-  <p align="center"><i>System initializing game board... Please wait or click to start.</i></p>
-  <!-- TIC-TAC-TOE-END -->
-  <p align="center"><i>Click a square to start a new game</i></p>
 </div>
 
 ---
