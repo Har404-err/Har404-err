@@ -83,6 +83,7 @@ drwxr-xr-x 2 user user 4096 MongoDB / MySQL / Supabase / npm
 
 <div align="center">
   <!-- TIC-TAC-TOE-START -->
+  <p align="center"><i>System initializing game board... Please wait or click to start.</i></p>
   <!-- TIC-TAC-TOE-END -->
   <p align="center"><i>Click a square to start a new game</i></p>
 </div>
@@ -90,15 +91,16 @@ drwxr-xr-x 2 user user 4096 MongoDB / MySQL / Supabase / npm
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/line-neon.gif" width="100%">
 </div>
-<!-- GitHub Activity Readme -->
+### 📡 System Activity Logs
 <div align="center">
-  <a href="https://github.com/jamesgeorge007/github-activity-readme">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har404-err&theme=tokyonight&area=true&hide_border=true" width="100%" />
-  </a>
-  <br/>
-  <!-- Recent Activity List -->
-  <img src="https://github-readme-stats.vercel.app/api/details?username=Har404-err&theme=tokyonight&show_icons=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har404-err&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </div>
+
+<br/>
+
+<!-- Recent Activity List -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/line-neon.gif" width="100%">
@@ -122,18 +124,16 @@ drwxr-xr-x 2 user user 4096 MongoDB / MySQL / Supabase / npm
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <p><b>🤖 Deployment focus:</b> High-performance WhatsApp Bots & API Integrations</p>
-        <a href="https://github.com/Har404-err?tab=repositories&q=bot">
-          <img src="https://img.shields.io/badge/Explore_WhatsApp_Bot_Portfolio-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <br/>
+        <p><b>📡 Access Terminal (WhatsApp Interface)</b></p>
+        <a href="https://wa.me/6285167562647?text=Hello+Har404-err+Bot!">
+          <img src="https://img.shields.io/badge/COMMAND_BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://chat.whatsapp.com/KkQDOXDZeDuC6UskCmpGg3">
+          <img src="https://img.shields.io/badge/COMMUNITY_HUB-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         </a>
         <br/><br/>
-        <!-- WhatsApp Bot & Community Links -->
-        <a href="https://wa.me/6285167562647?text=Hello+Har404-err+Bot!">
-          <img src="https://img.shields.io/badge/Live_Bot_Demo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-        </a>
-        <a href="https://chat.whatsapp.com/KkQDOXDZeDuC6UskCmpGg3">
-          <img src="https://img.shields.io/badge/Join_Bot_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-        </a>
       </td>
     </tr>
   </table>

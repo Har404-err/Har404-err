@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run once a day
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Jakarta
+          # Generate the isometric calendar as an asset
+          output_action: commit
+          committer_branch: main
+          committer_message: "⚡ Update isometric 3D city graph -- made with Gemini CLI"
