@@ -119,13 +119,25 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </div>
-
 ---
 
 <div align="center">
+  <h2>💝 Support Me</h2>
   <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif" width="250px" style="border-radius: 10px;"/>
-  
+
   <br><br>
+
+  <div align="center">
+    <a href="https://saweria.co/Har404err">
+      <img src="https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=coffee&logoColor=white" alt="Saweria" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://trakteer.id/Har404err">
+      <img src="https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Trakteer" />
+    </a>
+  </div>
+
+  <br>
 
   <a href="https://github.com/Har404-err">
     <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome!+%F0%9F%9A%80" alt="Typing SVG" style="max-width: 100%;" />
