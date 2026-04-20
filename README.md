@@ -95,11 +95,11 @@ Hobbies: Coding, Automation, Music.
 
 <h3 align="center">🚀 My Bot & Group</h3>
 <div align="center">
-  <a href="https://wa.me/6282148570591?text=Hello+Har404-err+Bot!">
+  <a href="https://wa.me/6285167562647?text=/menu">
     <img src="https://img.shields.io/badge/LIVE_BOT_DEMO-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Demo" />
   </a>
   <a href="https://chat.whatsapp.com/KkQDOXDZeDuC6UskCmpGg3">
-    <img src="https://img.shields.io/badge/JOIN_COMMUNITY-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Group" />
+    <img src="https://img.shields.io/badge/JOIN_GROUP_BOT-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Group" />
   </a>
 </div>
 
