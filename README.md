@@ -173,7 +173,7 @@ Hobbies: Coding, Automation, Music.
 
 <div align="center">
   <h2>💝 Support Me</h2>
-  <img src="https://media1.tenor.com/m/kMvtJh1VrroAAAAC/alya-san-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.gif" width="250px" style="border-radius: 10px;"/>
+  <img src="https://media.tenor.com/kMvtJh1VrroAAAAd/alya-san-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.gif" width="250px" style="border-radius: 10px;"/>
 
 <br><br>
 
