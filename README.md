@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Har404-err&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20|%20WhatsApp%20API%20Expert%20|%20Automation%20Specialist&descAlignY=55&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Har404-err&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=WhatsApp%20API%20Expert%20|%20Automation%20Specialist&descAlignY=55&descSize=15" width="100%"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <h2 align="center"> <h2> About me </h2>
 
 ```sh
-muh4r@localhost: ~/profile (main)$ neofetch
+muh4r@localhost[20:04:28] (main):~/my-profile$ neofetch
 ```
 
 <img align="left" src="https://put.icu/s/05apq2zb.jpg" width="130px" style="border-radius: 10px; margin-right: 20px;"/>
@@ -104,7 +104,7 @@ Hobbies: Coding, Automation, Music.
 
 <div align="center">
   <a href="https://github.com/Har404-err">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=WhatsApp+API+Expert;Automation+Developer;Software+Engineer" alt="Typing SVG" style="max-width: 100%;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=WhatsApp+API+Expert;Automation+Developer" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 </div>
 
