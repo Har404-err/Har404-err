@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/0zUyieJX2kgAAAAd/blue-archive-plana.gif" width="250px"/>
+  <img src="https://media1.tenor.com/m/wSTeCJTnzvYAAAAC/mambo.gif" width="250px"/>
 </div>
 
 <div align="center">
@@ -53,11 +53,11 @@ Hobbies: Coding, Automation, Music.
 <br><br>
 
 <p align="right">
-  <a href="https://music.youtube.com/watch?v=b8m9zhNAgKs">
-    <img src="https://i.ytimg.com/vi/b8m9zhNAgKs/maxresdefault.jpg" width="170" align="left" style="border-radius: 10px; margin-right: 15px;"/>
+  <a href="https://music.youtube.com/watch?v=YjrSkBjDVEw">
+    <img src="https://i.ytimg.com/vi/YjrSkBjDVEw/maxresdefault.jpg" width="170" align="left" style="border-radius: 10px; margin-right: 15px;"/>
   </a>
-  <b><br>Rae Sremmurd - Black Beatles</b><br>
-  <i>Trap / Hip-Hop Classic</i>
+  <b><br>Seishun Buta Yarou Cast - Fukashigi no Karte</b><br>
+  <i>Anime Ending Theme (ED)</i>
 </p>
 </div>
 
@@ -155,7 +155,7 @@ Hobbies: Coding, Automation, Music.
 
 <div align="center">
   <h2>💝 Support Me</h2>
-  <img src="https://tenor.com/eJWaf3t8oPO.gif" width="250px" style="border-radius: 10px;"/>
+  <img src="https://media1.tenor.com/m/kMvtJh1VrroAAAAC/alya-san-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.gif" width="250px" style="border-radius: 10px;"/>
 
 <br><br>
 
