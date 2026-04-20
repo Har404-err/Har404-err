@@ -84,8 +84,6 @@ Hobbies: Coding, Automation, Music.
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,supabase,html,css,tailwind,vite,git,linux,npm,github&theme=dark" />
-  <br>
-  <img src="https://img.shields.io/badge/Baileys_WA_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys" />
 </div>
 
 <br>
