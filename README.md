@@ -4,7 +4,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=500&lines=Building+Future+Bots;WhatsApp+API+Expert;JavaScript+%26+Python;Transforming+Ideas+to+Code;Turning+Coffee+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=500&lines=Building+Future+Bots;WhatsApp+API+Expert;JavaScript+Specialist;Transforming+Ideas+to+Code;Turning+Coffee+into+Reality" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,13 +20,12 @@ Har404-err
 /home/developer/cyber-realm
 > ls -l skills/
 drwxr-xr-x 2 user user 4096 JavaScript / TypeScript / Node.js
-drwxr-xr-x 2 user user 4096 Python / Data Analytics
-drwxr-xr-x 2 user user 4096 Express / React / Vite
-drwxr-xr-x 2 user user 4096 MongoDB / MySQL
+drwxr-xr-x 2 user user 4096 Express / Vite / Tailwind / Baileys
+drwxr-xr-x 2 user user 4096 MongoDB / MySQL / Supabase / npm
 ```
 - 🔭 I’m currently building advanced **WhatsApp Bots** and **Automated Systems**.
 - 🌱 I’m constantly learning deeper **Fullstack Development** and **AI Integrations**.
-- 💬 Ask me about **JavaScript, Python, API Integrations, and Bot Development**.
+- 💬 Ask me about **JavaScript, API Integrations, and Bot Development**.
 - ⚡ Fun fact: *"I speak fluent Binary, but I still use Google for Regex."*
 
 <div align="center">
@@ -36,7 +35,7 @@ drwxr-xr-x 2 user user 4096 MongoDB / MySQL
 ### 🛠️ Core Technologies (HUD Interface)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,tailwindcss,html,css,git,supabase,vite,react,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,vite,tailwind,html,css,git,npm,mongodb,mysql,supabase,github&theme=dark" />
   </a>
 </p>
 
@@ -52,17 +51,16 @@ drwxr-xr-x 2 user user 4096 MongoDB / MySQL
   </a>
   <br/><br/>
   
-  <table border="0" style="border: none;">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Har404-err&show_icons=true&theme=tokyonight&rank_icon=github&display_format=v2&border_radius=10" height="180" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har404-err&layout=compact&theme=tokyonight&border_radius=10" height="180" />
-      </td>
-    </tr>
-  </table>
+  <!-- RPG Style Summary Cards -->
+  <img src="https://raw.githubusercontent.com/Har404-err/Har404-err/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
   <br/>
+  <img src="https://raw.githubusercontent.com/Har404-err/Har404-err/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Har404-err/Har404-err/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Har404-err/Har404-err/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Har404-err/Har404-err/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+  <br/><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har404-err&theme=tokyonight&border_radius=10" width="100%" />
 </div>
 
@@ -83,8 +81,36 @@ drwxr-xr-x 2 user user 4096 MongoDB / MySQL
   <img src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/line-neon.gif" width="100%">
 </div>
 
+<div align="center">
+  <!-- TIC-TAC-TOE-START -->
+  <!-- TIC-TAC-TOE-END -->
+  <p align="center"><i>Click a square to start a new game</i></p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/line-neon.gif" width="100%">
+</div>
+<!-- GitHub Activity Readme -->
+<div align="center">
+  <a href="https://github.com/jamesgeorge007/github-activity-readme">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har404-err&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  </a>
+  <br/>
+  <!-- Recent Activity List -->
+  <img src="https://github-readme-stats.vercel.app/api/details?username=Har404-err&theme=tokyonight&show_icons=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/line-neon.gif" width="100%">
+</div>
+
 ### 🚀 Highlighted Protocols (Projects)
 <div align="center">
+  <!-- WhatsApp API Expertise Callout -->
+  <img src="https://img.shields.io/badge/WhatsApp_API_Expert-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automated_Systems-7F3FBF?style=for-the-badge&logo=probot&logoColor=white" />
+  <br/><br/>
+
   <table>
     <tr>
       <td width="50%">
@@ -92,6 +118,22 @@ drwxr-xr-x 2 user user 4096 MongoDB / MySQL
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Har404-err&repo=portofolio&theme=tokyonight&border_radius=10" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <p><b>🤖 Deployment focus:</b> High-performance WhatsApp Bots & API Integrations</p>
+        <a href="https://github.com/Har404-err?tab=repositories&q=bot">
+          <img src="https://img.shields.io/badge/Explore_WhatsApp_Bot_Portfolio-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        </a>
+        <br/><br/>
+        <!-- WhatsApp Bot & Community Links -->
+        <a href="https://wa.me/6285167562647?text=Hello+Har404-err+Bot!">
+          <img src="https://img.shields.io/badge/Live_Bot_Demo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
+        <a href="https://chat.whatsapp.com/KkQDOXDZeDuC6UskCmpGg3">
+          <img src="https://img.shields.io/badge/Join_Bot_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
       </td>
     </tr>
   </table>
