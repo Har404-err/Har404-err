@@ -59,6 +59,24 @@ Hobbies: Coding, Automation, Music.
   <b><br>Seishun Buta Yarou Cast - Fukashigi no Karte</b><br>
   <i>Anime Ending Theme (ED)</i>
 </p>
+<br><br>
+
+<p align="left">
+  <a href="https://music.youtube.com/watch?v=xpVfcZ0ZcFM">
+    <img src="https://i.ytimg.com/vi/xpVfcZ0ZcFM/maxresdefault.jpg" width="170" align="right" style="border-radius: 10px; margin-left: 15px;"/>
+  </a>
+  <b><br><br>Drake - God's Plan</b><br>
+  <i>Hip-Hop / Rap Classic</i>
+</p>
+<br><br>
+
+<p align="right">
+  <a href="https://music.youtube.com/watch?v=1XzY2ij_vL4">
+    <img src="https://i.ytimg.com/vi/1XzY2ij_vL4/maxresdefault.jpg" width="170" align="left" style="border-radius: 10px; margin-right: 15px;"/>
+  </a>
+  <b><br>Lil Tecca - Ransom</b><br>
+  <i>Melodic Rap / Trap</i>
+</p>
 </div>
 
 <br>
