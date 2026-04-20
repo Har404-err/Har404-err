@@ -23,7 +23,7 @@
 
 <h3 align="center">⚙️ Daily Routine Script</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=63A4FF&center=true&vCenter=true&width=600&lines=while+(life.status+===+'active')+{;++eat();;++sleep();;++code_baileys_bots();;++automate_everything();;++repeat();;}" alt="Routine SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=63A4FF&center=true&vCenter=true&width=600&lines=while+(life.status+===+'active')+{;++eat();;++sleep();;++maintain_baileys_session();;++optimize_neural_logic();;++bypass_restrictions();;++automate_everything();;++repeat();;}" alt="Routine SVG" />
 </div>
 
 <h3 align="center">🚀 My Bot & Communities</h3>
