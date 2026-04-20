@@ -23,7 +23,7 @@ muh4r@localhost: ~/profile (main)$ neofetch
 ```yaml
 My Profile
 -------------------------------
-Username:muh4r
+Username: muh4r
 Status: Automation Enthusiast.
 Languages: Indonesia & English
 Waifu: Alya Kujou (アリサ・九条)
@@ -32,8 +32,6 @@ Hobbies: Coding, Automation, Music.
 ```
 
 <br>
-
-<h2 align="center"> 🎶 Music Soundscape (Favorite Tracks) </h2>
 
 <div>
 <p align="right">
@@ -157,7 +155,7 @@ Hobbies: Coding, Automation, Music.
 
 <div align="center">
   <h2>💝 Support Me</h2>
-  <img src="https://tenor.com/view/alya-san-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-alisa-alisa-mikhailovna-kujou-alya-gif-10433693709690580666" width="250px" style="border-radius: 10px;"/>
+  <img src="https://tenor.com/view/alya-san-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-alisa-alisa-mikhailovna-kujou-alya-gif-10433693709690580666.gif" width="250px" style="border-radius: 10px;"/>
 
 <br><br>
 
