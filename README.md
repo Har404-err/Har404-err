@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Har404-err&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer%20|%20WhatsApp%20API%20Expert%20|%20Automation%20Specialist&descAlignY=55&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Har404-err&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20|%20WhatsApp%20API%20Expert%20|%20Automation%20Specialist&descAlignY=55&descSize=15" width="100%"/>
 </div>
 
 <div align="center">
@@ -14,11 +14,9 @@
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,supabase,html,css,tailwind,vite,git,linux,npm,github&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/Baileys_WA_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys" />
 </div>
 
 <br>
@@ -121,6 +119,29 @@
     &nbsp;&nbsp;
     <a href="https://trakteer.id/Har404err">
       <img src="https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Trakteer" />
+    </a>
+  </div>
+
+  <br>
+
+  <a href="https://github.com/Har404-err">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome!+%F0%9F%9A%80" alt="Typing SVG" style="max-width: 100%;" />
+  </a>
+
+  <h2>Show some ❤️ by starring repositories!</h2>
+</div>
+
+<footer align="center">
+  <a href="https://github.com/Har404-err" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+  <p>© 2026 Har404-err • All rights reserved</p>
+</footer>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer" width="100%"/>
+</div>
+tyle=for-the-badge&logo=kofi&logoColor=white" alt="Trakteer" />
     </a>
   </div>
 
