@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Har404-err">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Har404-err;%F0%9F%8F%A0+Welcome+To+My+Digital+Realm" alt="Typing SVG" style="max-width: 100%;"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Har404-err;%F0%9F%8F%A0+Welcome+To+My+Digital+Realm" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 
 <h3 align="center">🚀 My Bot & Communities</h3>
 <div align="center">
-  <a href="https://wa.me/6285167562647?text=Hello+Har404-err+Bot!">
+  <a href="https://wa.me/6282148570591?text=Hello+Har404-err+Bot!">
     <img src="https://img.shields.io/badge/LIVE_BOT_DEMO-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Demo" />
   </a>
   <a href="https://chat.whatsapp.com/KkQDOXDZeDuC6UskCmpGg3">
@@ -38,6 +38,9 @@
 
 <h3 align="center">📱 Let's Connect</h3>
 <div align="center">
+  <a href="https://wa.me/6282148570591">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="https://www.instagram.com/muh4r_01">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -105,10 +108,6 @@
   <br><br>
 
   <div align="center">
-    <a href="https://saweria.co/Har404err">
-      <img src="https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=coffee&logoColor=white" alt="Saweria" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://trakteer.id/Har404err">
       <img src="https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Trakteer" />
     </a>
