@@ -176,7 +176,7 @@ Hobbies: Coding, Automation, Music.
 <br><br>
 
   <div align="center">
-    <a href="https://trakteer.id/Har404err">
+    <a href="https://trakteer.id/muhar4/gift">
       <img src="https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge&logo=kofi&logoColor=white" alt="Trakteer" />
     </a>
   </div>
