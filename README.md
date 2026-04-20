@@ -12,19 +12,18 @@
   </a>
 </div>
 
-<h2 align="center"> ✨ About me ✨ </h2>
+<h2 align="center"> </h2> About me </h2>
 
 ```sh
-root@har404-err: ~/NeuralNetwork (main)$ neofetch
+muh4r@localhost: ~/profile (main)$ neofetch
 ```
 
-<img align="left" src="https://media1.tenor.com/m/Y7_tP6z08h0AAAAd/alya-alya-sometimes-hides-her-feelings-in-russian.gif" width="130px" style="border-radius: 10px; margin-right: 20px;"/>
+<img align="left" src="https://put.icu/s/05apq2zb.jpg" width="130px" style="border-radius: 10px; margin-right: 20px;"/>
 
 ```yaml
 My Profile
 -------------------------------
-Host: neural.har404.err
-Username: Har404-err
+Username:muh4r
 Status: Automation Enthusiast.
 Languages: Indonesia & English
 Waifu: Alya Kujou (アリサ・九条)
@@ -34,7 +33,7 @@ Hobbies: Coding, Automation, Music.
 
 <br>
 
-<h2 align="center"> 🎶 Neural Soundscape (Favorite Tracks) </h2>
+<h2 align="center"> 🎶 Music Soundscape (Favorite Tracks) </h2>
 
 <div>
 <p align="right">
@@ -80,7 +79,7 @@ Hobbies: Coding, Automation, Music.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=63A4FF&center=true&vCenter=true&width=600&lines=while+(life.status+===+'active')+{;++eat();;++sleep();;++maintain_baileys_session();;++optimize_neural_logic();;++bypass_restrictions();;++automate_everything();;++repeat();;}" alt="Routine SVG" />
 </div>
 
-<h3 align="center">🚀 My Bot & Communities</h3>
+<h3 align="center">🚀 My Bot & Group</h3>
 <div align="center">
   <a href="https://wa.me/6282148570591?text=Hello+Har404-err+Bot!">
     <img src="https://img.shields.io/badge/LIVE_BOT_DEMO-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Demo" />
@@ -98,7 +97,7 @@ Hobbies: Coding, Automation, Music.
   <a href="https://www.instagram.com/muh4r_01">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:muhar01@example.com">
+  <a href="mailto: abdulmuhar564@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
@@ -123,7 +122,7 @@ Hobbies: Coding, Automation, Music.
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=Har404-err&color=63a4ff&style=for-the-badge&label=SYSTEM+ACCESS" style="margin-bottom: 5px; max-width: 100%;" />
-</div>  
+</div>
 
 ---
 
@@ -148,6 +147,7 @@ Hobbies: Coding, Automation, Music.
 </div>
 
 ---
+
 <div align="center">
   <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har404-err&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" style="max-width: 100%;">
@@ -157,9 +157,9 @@ Hobbies: Coding, Automation, Music.
 
 <div align="center">
   <h2>💝 Support Me</h2>
-  <img src="https://media1.tenor.com/m/t5zHqaeKfUEAAAAd/seele-vollerei.gif" width="250px" style="border-radius: 10px;"/>
+  <img src="https://tenor.com/view/alya-san-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-alisa-alisa-mikhailovna-kujou-alya-gif-10433693709690580666" width="250px" style="border-radius: 10px;"/>
 
-  <br><br>
+<br><br>
 
   <div align="center">
     <a href="https://trakteer.id/Har404err">
