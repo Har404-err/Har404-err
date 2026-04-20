@@ -12,6 +12,60 @@
   </a>
 </div>
 
+<h2 align="center"> ✨ About me ✨ </h2>
+
+```sh
+root@har404-err: ~/NeuralNetwork (main)$ neofetch
+```
+
+<img align="left" src="https://media1.tenor.com/m/Y7_tP6z08h0AAAAd/alya-alya-sometimes-hides-her-feelings-in-russian.gif" width="130px" style="border-radius: 10px; margin-right: 20px;"/>
+
+```yaml
+My Profile
+-------------------------------
+Host: neural.har404.err
+Username: Har404-err
+Status: Automation Enthusiast.
+Languages: Indonesia & English
+Waifu: Alya Kujou (アリサ・九条)
+Location: Indonesia.
+Hobbies: Coding, Automation, Music.
+```
+
+<br>
+
+<h2 align="center"> 🎶 Neural Soundscape (Favorite Tracks) </h2>
+
+<div>
+<p align="right">
+  <a href="https://music.youtube.com/watch?v=E69G_Y_8_8M">
+    <img src="https://i.ytimg.com/vi/E69G_Y_8_8M/maxresdefault.jpg" width="170" align="left" style="border-radius: 10px; margin-right: 15px;"/>
+  </a>
+  <b><br>The 1975 - About You</b><br>
+  <i>Atmospheric Dream Pop</i>
+</p>
+<br><br>
+
+<p align="left">
+  <a href="https://music.youtube.com/watch?v=KbT3JsJmd14">
+    <img src="https://i.ytimg.com/vi/KbT3JsJmd14/maxresdefault.jpg" width="170" align="right" style="border-radius: 10px; margin-left: 15px;"/>
+  </a>
+  <b><br><br>the peggies - Kimi no Sei</b><br>
+  <i>Seishun Buta Yarou OP</i>
+</p>
+<br><br>
+
+<p align="right">
+  <a href="https://music.youtube.com/watch?v=b8m9zhNAgKs">
+    <img src="https://i.ytimg.com/vi/b8m9zhNAgKs/maxresdefault.jpg" width="170" align="left" style="border-radius: 10px; margin-right: 15px;"/>
+  </a>
+  <b><br>Rae Sremmurd - Black Beatles</b><br>
+  <i>Trap / Hip-Hop Classic</i>
+</p>
+</div>
+
+<br>
+
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,supabase,html,css,tailwind,vite,git,linux,npm,github&theme=dark" />
