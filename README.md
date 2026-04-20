@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h2 align="center"> </h2> About me </h2>
+<h2 align="center"> <h2> About me </h2>
 
 ```sh
 muh4r@localhost: ~/profile (main)$ neofetch
@@ -155,7 +155,7 @@ Hobbies: Coding, Automation, Music.
 
 <div align="center">
   <h2>💝 Support Me</h2>
-  <img src="https://tenor.com/view/alya-san-hides-her-feelings-in-russian-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-alisa-alisa-mikhailovna-kujou-alya-gif-10433693709690580666.gif" width="250px" style="border-radius: 10px;"/>
+  <img src="https://tenor.com/eJWaf3t8oPO.gif" width="250px" style="border-radius: 10px;"/>
 
 <br><br>
 
