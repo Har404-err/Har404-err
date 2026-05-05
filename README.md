@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/kyiov">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Har404-err;%F0%9F%8F%A0+Welcome+To+My+Digital+Realm" alt="Typing SVG" style="max-width: 100%;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Muhar;%F0%9F%8F%A0+Welcome+To+My+Digital+Realm" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 </div>
 
